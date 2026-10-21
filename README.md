@@ -1,4 +1,4 @@
-E-commerce QA Testing Project
+QA Testing Project
 Учебный проект по ручному тестированию веб-приложения интернет-магазина.
 Что входит в проект
   Чек-лист проверок
@@ -7,7 +7,7 @@ E-commerce QA Testing Project
   Ретестинг исправленных дефектов
 Проект создан для практики тестирования пользовательских сценариев, документирования дефектов и проверки исправлений.
 
-E-commerce QA Testing Project
+QA Testing Project
 A learning project focused on manual testing of an e-commerce web application.
 Project Contents
   Test checklist
